@@ -1,3 +1,4 @@
+//全排列
 #include <iostream>
 using namespace std;
 const int N = 10;
